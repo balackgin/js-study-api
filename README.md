@@ -10,3 +10,8 @@
 
 # react UI
 1. antd antd-pro antd-mobile
+
+# vue 相关技术栈
+
+# https://cn.vuejs.org/ (官网唯一指定文档)
+# 
